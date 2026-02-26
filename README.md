@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-## About Me
+About Me
 I am an aspiring DevOps and Cloud Engineer driven by a deep curiosity for how systems function at their lowest levels. My current work bridges the gap between manual configuration and full-scale automation, with a particular focus on architecting resilient environments using Kubernetes and AWS. I believe that infrastructure should be as versionable and testable as application code, which is why I spend my time perfecting CI/CD pipelines and exploring the power of Ansible for seamless orchestration.
 
 Beyond high-level automation, I am currently challenging myself by building a system via the Linux From Scratch (LFS) project. This journey into compiling toolchains and configuring kernels helps me maintain a "mechanical sympathy" for the hardware and operating systems that power the cloud. Whether I am troubleshooting a "no route to host" error in a worker node or optimizing a container image, my goal is always to build systems that are secure, scalable, and elegantly documented.
