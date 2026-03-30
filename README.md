@@ -1,25 +1,7 @@
 ## Hi there 👋
 
-<!-- <p align="center">
-About Me
-I am an aspiring DevOps and Cloud Engineer driven by a deep curiosity for how systems function at their lowest levels. My current work bridges the gap between manual configuration and full-scale automation, with a particular focus on architecting resilient environments using Kubernetes and AWS. I believe that infrastructure should be as versionable and testable as application code, which is why I spend my time perfecting CI/CD pipelines and exploring the power of Ansible for seamless orchestration.
+Junior Cloud & Initial DevOps Engineer
 
-Beyond high-level automation, I am currently challenging myself by building a system via the Linux From Scratch (LFS) project. This journey into compiling toolchains and configuring kernels helps me maintain a "mechanical sympathy" for the hardware and operating systems that power the cloud. Whether I am troubleshooting a "no route to host" error in a worker node or optimizing a container image, my goal is always to build systems that are secure, scalable, and elegantly documented.
+Strong foundation in cloud infrastructure, automation, and containerization with hands-on experience building and deploying scalable applications. Practical knowledge of tools like Docker, Kubernetes, and CI/CD pipelines, with a clear understanding of how systems are designed, deployed, and maintained in production environments.
 
-When I’m not at the terminal, I’m usually refining my focus through language learning. I am currently studying Japanese, applying the same iterative, daily "commit" logic to mastering Kanji and grammar as I do to my technical stacks. I’m always open to collaborating on open-source infrastructure projects or discussing the future of platform engineering.
-</p> -->
-
-<!--
-**Jatin804/Jatin804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Continuously working on improving system design skills, exploring advanced DevOps practices, and taking on projects that strengthen real-world engineering capabilities.
