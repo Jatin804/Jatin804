@@ -23,3 +23,12 @@
 Strong foundation in cloud infrastructure, automation, and containerization with hands-on experience building and deploying scalable applications. Practical knowledge of tools like Docker, Kubernetes, and CI/CD pipelines, with a clear understanding of how systems are designed, deployed, and maintained in production environments.
 
 Continuously working on improving system design skills, exploring advanced DevOps practices, and taking on projects that strengthen real-world engineering capabilities.
+
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Jatin804&theme=dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin804&theme=github-dark&hide_border=true" height="170"/>
+
+</div>
