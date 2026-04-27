@@ -25,10 +25,5 @@ Strong foundation in cloud infrastructure, automation, and containerization with
 Continuously working on improving system design skills, exploring advanced DevOps practices, and taking on projects that strengthen real-world engineering capabilities.
 
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Jatin804&theme=dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin804&theme=github-dark&hide_border=true" height="170"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin804&theme=github-dark&hide_border=true&area=true&custom_title=Activity%20Graph" width="100%"/></p>
