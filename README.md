@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-#### Junior Cloud & Initial DevOps Engineer
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-reddy-4a0223397)
+#### Junior Cloud & Initial DevOps Engineer (link below)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jatin-reddy-4a0223397/)
+
+---
 
 ## 🚀 Tech Stack & Tools
-
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,ansible,py,git,github,jenkins,kubernetes,terraform,mysql,prometheus,grafana)](https://skillicons.dev)
 
 Strong foundation in cloud infrastructure, automation, and containerization with hands-on experience building and deploying scalable applications. Practical knowledge of tools like Docker, Kubernetes, and CI/CD pipelines, with a clear understanding of how systems are designed, deployed, and maintained in production environments.
